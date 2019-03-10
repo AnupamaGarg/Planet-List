@@ -1,0 +1,11 @@
+C:\Users\dolly\workspace\csharp\exercises\planets-and-spaceShips\bin\Debug\netcoreapp2.2\planets-and-spaceShips.deps.json
+C:\Users\dolly\workspace\csharp\exercises\planets-and-spaceShips\bin\Debug\netcoreapp2.2\planets-and-spaceShips.runtimeconfig.json
+C:\Users\dolly\workspace\csharp\exercises\planets-and-spaceShips\bin\Debug\netcoreapp2.2\planets-and-spaceShips.runtimeconfig.dev.json
+C:\Users\dolly\workspace\csharp\exercises\planets-and-spaceShips\bin\Debug\netcoreapp2.2\planets-and-spaceShips.dll
+C:\Users\dolly\workspace\csharp\exercises\planets-and-spaceShips\bin\Debug\netcoreapp2.2\planets-and-spaceShips.pdb
+C:\Users\dolly\workspace\csharp\exercises\planets-and-spaceShips\obj\Debug\netcoreapp2.2\planets-and-spaceShips.csprojAssemblyReference.cache
+C:\Users\dolly\workspace\csharp\exercises\planets-and-spaceShips\obj\Debug\netcoreapp2.2\planets-and-spaceShips.csproj.CoreCompileInputs.cache
+C:\Users\dolly\workspace\csharp\exercises\planets-and-spaceShips\obj\Debug\netcoreapp2.2\planets-and-spaceShips.AssemblyInfoInputs.cache
+C:\Users\dolly\workspace\csharp\exercises\planets-and-spaceShips\obj\Debug\netcoreapp2.2\planets-and-spaceShips.AssemblyInfo.cs
+C:\Users\dolly\workspace\csharp\exercises\planets-and-spaceShips\obj\Debug\netcoreapp2.2\planets-and-spaceShips.dll
+C:\Users\dolly\workspace\csharp\exercises\planets-and-spaceShips\obj\Debug\netcoreapp2.2\planets-and-spaceShips.pdb
